@@ -1,14 +1,5 @@
 # x402 Resource Digest
 
-## Category Overview
-
-- Protocol Specs & Official Docs (2 items)
-- Implementations & Tooling (5 items)
-- MCP & Agent Payment Integrations (1 item)
-- Ecosystem Applications & Case Studies (4 items)
-- Technical Extensions & Historical Context (4 items)
-- Ecosystem Governance & Adoption (1 item)
-
 ## Protocol Specs & Official Docs
 
 - Coinbase x402 Docs Hub
