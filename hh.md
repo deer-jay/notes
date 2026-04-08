@@ -1,0 +1,1 @@
+https://dashboard-sandbox.waffo.com/docs/guides/02-integration-flow/
